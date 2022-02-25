@@ -1,4 +1,4 @@
-# git_prac
+# Git & GitHub Practice
 > 영상
 > 
 > https://www.youtube.com/watch?v=1I3hMwQU6GU
